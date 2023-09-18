@@ -12,6 +12,7 @@ The Report Summarizer is designed to extract information and provide summaries o
 
 3.You can change the prompts to get a customized report (optional) 
 
+
 ![image](https://github.com/acbouzas/Report-Summarizer/blob/main/images/Screenshot%20from%202023-09-18%2011-17-43.png)
 ![image](https://github.com/acbouzas/Report-Summarizer/blob/main/images/Screenshot%20from%202023-09-18%2011-18-35.png)
 ![image](https://github.com/acbouzas/Report-Summarizer/blob/main/images/Screenshot%20from%202023-09-18%2011-12-38.png)
